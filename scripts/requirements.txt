@@ -1,0 +1,18 @@
+transformers==4.48.3
+datasets==3.3.2
+torch==2.5.1+cu124  # adjust for your CUDA version if necessary
+openai==0.28.0
+nltk==3.9.1
+beautifulsoup4==4.13.3
+lxml==5.3.1
+lime==0.2.0.1
+sacrebleu==2.5.1
+shap==0.46.0
+emoji==2.14.1
+contractions==0.1.73
+rouge-score==1.2.0
+bert-score==0.3.12
+gdown==4.5.1
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.12.2
