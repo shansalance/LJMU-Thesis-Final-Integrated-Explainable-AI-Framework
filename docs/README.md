@@ -1,4 +1,4 @@
-# Integrated Explainable AI Framework for Sentiment Analysis
+# EXPLAINABLE GENERATIVE ARTIFICIAL INTELLIGENCE FOR ENHANCED SENTIMENT ANALYSIS
 
 This repository contains the complete code and resources for my Master's Thesis project in Data Science. The project implements an integrated explainable AI framework for sentiment analysis, covering all stages—from data preprocessing and model fine-tuning to explanation generation, evaluation, and visualization.
 
